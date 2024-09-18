@@ -13,7 +13,7 @@
     "autoprefixer": "^10.4.19",
     "axios": "^1.7.2",
     "mongoose": "^8.4.1",
-    "next": "14.2.3",
+    "next": "14.2.10",
     "react": "^18",
     "react-dom": "^18",
     "tiny-localstorage-db": "^1.0.3"
